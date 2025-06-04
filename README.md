@@ -73,10 +73,10 @@
 | 해외(외환) | VIX(미국 주가 공포지수), 외환 보유액, 외국인 투자금액, 경상 수지 |
 
 ## 🤖 머신 러닝
-> 1. ${\textsf{\color{black}타겟 = 다음 달 원/달러 환율}}$
-> 2. ${\textsf{\color{black}최종 모델 : LSTM (Permutation 중요도 top 10)}}$
-> 3. ${\textsf{\color{black}MAE : 37.8원}}$
-> 4. ${\textsf{\color{black}R2 성능 : 0.749}}$
+> 1. 타겟 = 다음 달 원/달러 환율
+> 2. 최종 모델 : LSTM (Permutation 중요도 top 10)
+> 3. MAE : 37.8원
+> 4. R2 성능 : 0.749
 
 ## 🔜 방향성 제시 (고급 예측)
 1. 기업
